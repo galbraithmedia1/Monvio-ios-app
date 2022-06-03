@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Monviso Weather",
+    "slug": "monviso-weather",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/monviso-logo.png",
+    "splash": {
+      "image": "./assets/Monviso-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+   
+}
+}
