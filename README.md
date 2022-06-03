@@ -13,4 +13,4 @@ This app uses expo as the cli to connect to the app store. I programmed an esp32
   </tr>
  </table>
  
-   <td><img src="https://user-images.githubusercontent.com/59584919/171917237-4cbe213a-203f-4fad-af18-a665efc81d2c.png" width=200 height=400></td>
+   <td><img src="https://user-images.githubusercontent.com/59584919/171917237-4cbe213a-203f-4fad-af18-a665efc81d2c.png" width=1725 height=674></td>
